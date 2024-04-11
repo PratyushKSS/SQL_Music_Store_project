@@ -9,4 +9,4 @@ This project is for beginners and will help you to learn how to analyze the musi
 * PgAdmin4
 
 Schema- Music Store Database  
-![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+![MusicDatabaseSchema](https://github.com/PratyushKSS/SQL_Music_Store_project/blob/main/music%20store%20dataset/schema_diagram.png?raw=true)
